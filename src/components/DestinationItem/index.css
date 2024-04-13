@@ -1,0 +1,16 @@
+/* Write your CSS here */
+
+.bg-card {
+  display: flexbox;
+  flex-wrap: wrap;
+  flex-direction: column;
+  text-align: center;
+}
+
+.img-card {
+  height: 40vh;
+  width: 20vw;
+  margin: 5vw;
+  margin-bottom: 0vw;
+  margin-top: 2vw;
+}
